@@ -45,7 +45,6 @@ OpenCV-DeepLearning-FaceDetection/
 ├── face_detection.ipynb
 ├── deploy.prototxt
 ├── res10_300x300_ssd_iter_140000.caffemodel
-├── sample_images/
 ├── sample_videos/
 ├── outputs/
 └── README.md
